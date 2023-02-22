@@ -1,30 +1,113 @@
-{		"topic_1": "basic_theory",
-		"topic_2": "client_server_architecture",
-		"topic_3": "HTTP_methods",
-		"topic_4": "HTTP_responses",
-		"topic_5": "structures_of_HTTP_requests_and_responses",
-		"topic_6": "JSON_XML_structures",
-		"topic_7": "API_Postman",
-		"topic_8": "external_server_removing_reading_logs",
-		"topic_9": "Sniffing_http_web_traffic_Charles_Fiddler",
-		"topic_10": "DevTools",
-		"topic_11": "VPN",
-		"topic_12": "mobile_testing",
-		"topic_13": "iOS_Android_guidelines",
-		"topic_14": "Building_iOS_app_XCode",
-		"topic_15": "Building_Android_app_Android_Studio",
-		"topic_16": "ADB",
-		"topic_17": "proxy_vpn_iOS_Android",
-		"topic_18": "sniffing_mobile_traffic_Charles_Fiddler_on_iOS_Android",
-		"topic_19": "Terminal_Linux",
-		"topic_20": "Basics_of_bash_scripting",
-		"topic_21": "Access_to_remote_servers",
-		"topic_22": "SQL_basics",
-		"topic_23": "Postgres_database",
-		"topic_24": "Nonrelational_database_Redis",
-		"topic_25": "Jmetr",
-		"topic_26": "Scrum_methodology",
-		"topic_27": "Python_basics"
-
-
+{
+	"Course_topics": [
+		{
+			"topic": 1,
+			"title": "basic_theory"
+		},
+		{
+			"topic": 2,
+			"title": "client_server_architecture"
+		},
+		{	
+			"topic": 3,
+			"title": "HTTP_methods"
+		},
+		{
+			"topic": 4,
+			"title": "HTTP_responses"
+		},
+		{	
+			"topic": 5,
+			"title": "structures_of_HTTP_requests_and_responses"
+		},
+		{
+			"topic": 6,
+			"title": "JSON_XML_structures"
+		},
+		{
+			"topic": 7,
+			"title": "API_Postman"
+		},
+		{
+			"topic": 8,
+			"title": "external_server_removing_reading_logs"
+		},
+		{
+			"topic": 9,
+			"title": "snifing_http_web_traffic_Charles_Fiddler"
+		},
+		{
+			"topic": 10,
+			"title": "DevTools"
+		},
+		{
+			"topic": 11,
+			"title": "VPN"
+		},
+		{
+			"topic": 12,
+			"title": "mobile_testing"
+		},
+		{
+			"topic": 13,
+			"title": "IOS_Android_guiadlines"
+		},
+		{
+			"topic": 14,
+			"title": "Building_IOS_app_XCode"
+		},
+		{	"topic": 15,
+			"title": "building_Android_app_Android_studio"
+		},
+		{
+			"topic": 16,
+			"title": "ADB"
+		},
+		{
+			"topic": 17,
+			"title": "proxy_vpn_IOS_Android"
+		},
+		{
+			"topic": 18,
+			"title": "sniffing_mobile_trafic_Charles_Fiddler_IOS_Android"
+		},
+		{
+			"topic": 19,
+			"title": "Terminal_Linux"
+		},
+		{
+			"topic": 20,
+			"title": "basics_of_bash_scripting"
+		},
+		{
+			"topic": 21,
+			"title": "Access_to_remote_servers"
+		},
+		{
+			"topic": 22,
+			"title": "SQL_basics"
+		},
+		{
+			"topic": 23,
+			"title": "Postgres_database"
+		},
+		{
+			"topic": 24,
+			"title": "Nonrelational_database_Redis"
+		},
+		{
+			"topic": 25,
+			"title": "Jmetr"
+		},
+		{
+			"topic": 26,
+			"title": "Scrum_methodology"
+		},
+		{
+			"topic": 27,
+			"title": "Python_basics"
+		}
+	]
 }
+
+
